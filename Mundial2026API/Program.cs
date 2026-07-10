@@ -38,3 +38,5 @@ app.MapControllers();
 app.Run();
 
 public partial class Program { }
+
+//modificando este archivo con este comentario para ver si se ejecuta correctamente la pipeline de GitHub Actions.
